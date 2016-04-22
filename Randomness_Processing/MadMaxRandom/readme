@@ -1,0 +1,6 @@
+An exercise in Randomness in processing.  
+The ground texture is generated and scrolls using Perlin noise. 
+The cars move using Gaussian distribution.
+
+The dark car is controllable and dies if hit by a tower or opposing car.
+Loosly inspired by Mad Max: Fury Road.
